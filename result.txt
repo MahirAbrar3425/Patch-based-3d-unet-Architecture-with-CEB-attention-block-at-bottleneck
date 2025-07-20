@@ -1,0 +1,24 @@
+70 epochs - 6 layer:
+Class 0: IoU = 0.9980, Dice = 0.9990, Average Volume = -6.11 voxels
+Class 1: IoU = 0.5133, Dice = 0.6433, Average Volume = -6.49 voxels
+Class 2: IoU = 0.6420, Dice = 0.7613, Average Volume = 10.21 voxels
+Class 3: IoU = 0.6008, Dice = 0.7120, Average Volume = 2.39 voxels
+
+
+100 epochs(30 avg) -6 layers:
+Class 0: IoU = 0.9980, Dice = 0.9990, Average Volume = -0.20 voxels
+Class 1: IoU = 0.5382, Dice = 0.6599, Average Volume = -5.66 voxels
+Class 2: IoU = 0.6441, Dice = 0.7632, Average Volume = 4.77 voxels
+Class 3: IoU = 0.6259, Dice = 0.7280, Average Volume = 1.10 voxels
+
+120 epochs(50 avg) - 6 layers:
+Class 0: IoU = 0.9981, Dice = 0.9990, Average Volume = 0.52 voxels
+Class 1: IoU = 0.5388, Dice = 0.6555, Average Volume = -1.79 voxels
+Class 2: IoU = 0.6706, Dice = 0.7866, Average Volume = 1.91 voxels
+Class 3: IoU = 0.6358, Dice = 0.7375, Average Volume = -0.64 voxels
+
+150 epochs(80 avg)- 6 layers:
+Class 0: IoU = 0.9980, Dice = 0.9990, Average Volume = 0.97 voxels
+Class 1: IoU = 0.5331, Dice = 0.6569, Average Volume = -5.14 voxels
+Class 2: IoU = 0.6505, Dice = 0.7698, Average Volume = 5.53 voxels
+Class 3: IoU = 0.6301, Dice = 0.7294, Average Volume = -1.36 voxels
